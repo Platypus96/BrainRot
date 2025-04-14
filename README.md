@@ -1,7 +1,3 @@
-Absolutely! Here's the updated `README.md` with a new section explaining how to deploy the contract using **Remix IDE**, in addition to Hardhat.
-
----
-
 ```markdown
 # 🧠 BrainRot Token (ROT)
 
